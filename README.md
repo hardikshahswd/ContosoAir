@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/hardikshahswd/contoso/_apis/build/status/hardikshahswd.ContosoAir?branchName=master)](https://dev.azure.com/hardikshahswd/contoso/_build/latest?definitionId=4&branchName=master)
 
 # Microsoft.Github CI Demo
 
